@@ -1,2 +1,0 @@
-# DBCtutorial
-Discord JS tutorial!
